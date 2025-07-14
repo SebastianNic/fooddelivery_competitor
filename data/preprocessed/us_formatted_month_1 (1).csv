@@ -1,0 +1,336 @@
+restaurantID,name,street,restaurantZIP,#CommissionableOrders,AvgBasketSize€,#NegativeComments,#PositiveComments,%KillRate,AvgTimetoAccept(s),Month
+1505,Mampf,"Herrgottwiesgasse, 51",8020,699,22.5,3,1,5.20%,17,1
+1532,Pizzeria Dolce Vita,"Georgigasse, 26",8020,"1,178",19.12,0,1,6.00%,9,1
+1560,China Restaurant Mond,"Harrachgasse, 12",8010,230,23.82,1,1,5.40%,19,1
+1621,Asia Wok Royal,"Eggenberger Allee, 46",8020,692,24.6,3,1,7.70%,27,1
+1622,Gourmet Express,"Großmarktstraße, 10",8020,365,24.13,2,1,3.90%,20,1
+1642,Goldene Schwalbe Chinarestaurant,"Lagergasse, 67",8020,106,25.02,1,1,10.00%,34,1
+1643,Pizza Taxi & Road Burger,"Kärntner Straße, 167",8053,746,26.34,0,1,5.40%,21,1
+1667,Pizzeria Mama-Rosa,"Wiener Straße, 182 b",8051,336,17.46,9,1,7.50%,26,1
+1703,China Restaurant Imperium,"Theodor-Körner-Straße, 40",8010,486,24.3,1,1,8.50%,15,1
+1747,Gambaro Rosso,"St.-Peter-Hauptstraße, 61",8042,248,20.72,1,1,9.30%,18,1
+1870,China Restaurant Goldener Fisch,"Fischergasse, 5",8010,333,22.6,6,1,10.30%,127,1
+1936,Don Alfredo und Der Knusperwirt,"Kalvariengürtel, 1",8020,328,21.85,1,1,10.70%,27,1
+2105,Pizzeria Venezia,"Annenstraße, 54",8020,116,12.23,0,1,13.00%,397,1
+2108,Salz & Pfeffer,"Vinzenz-Muchitsch-Straße, 10",8020,460,26.82,6,1,9.10%,22,1
+2109,Uni Pizza Graz,"Simonygasse, 49",8054,23,18.54,0,1,7.70%,100,1
+2132,Side Cafe-Pizzeria,"Annenstraße, 37",8020,36,13.84,0,1,7.80%,387,1
+2215,Dim Sum,"Dietrichsteinplatz, 2",8010,235,31.06,1,1,11.50%,21,1
+2307,Pizza Anka,"Karlauplatz, 4",8020,64,11.63,0,1,3.50%,345,1
+2627,Schnitzl Stub'n,"Glockenspielplatz, 5",8010,0,,0,0,,,1
+2772,PHOENIX,"Handelstraße, 38a",8020,0,,0,0,,,1
+2998,Shun Feng,"Keplerstraße, 34",8020,285,19.86,2,1,8.70%,16,1
+2999,Chinahaus,"Mariatroster Straße, 14",8043,240,24.08,0,1,8.60%,18,1
+3079,King Pizzeria,"Kärntner Straße, 406",8054,229,18.65,1,1,7.00%,13,1
+3093,Wiener & Co,"Straßganger Straße, 210",8052,278,23.98,2,1,5.90%,23,1
+3181,Pizza und Kebap Studio,"St.-Peter-Hauptstraße, 90",8042,674,14.01,6,1,4.70%,11,1
+3230,Pizzeria da Piero,"Griesgasse, 34",8020,"1,463",19.56,1,1,6.40%,9,1
+3246,Arena Kebap Pizza Burger,"Liebenauer Hauptstraße, 17",8041,67,24.43,0,1,13.30%,10,1
+3253,China Restaurant Jade,"Schillerstraße, 2",8010,869,24.98,1,1,6.90%,16,1
+3373,Pizzeria Reggae Haus,"Leonhardstraße, 26",8010,52,19.5,1,1,,32,1
+3502,Hai Asia,"Liebenauer Gürtel, 16",8041,191,28.18,1,1,12.70%,38,1
+3645,Campus,"Schumanngasse, 27",8010,370,17.38,5,1,9.60%,17,1
+3675,Restaurant Z10,"Zinzendorfgasse, 10",8010,"1,899",23.53,4,1,6.30%,15,1
+3676,The Perfect Bite,"Annenstraße, 10/10",8020,80,21.62,2,1,11.10%,49,1
+3687,Milu Milu Taiwanesisches Restaurant,"Keesgasse, 5",8010,94,28.38,1,1,18.40%,13,1
+3728,Euroburger & Euronudel,"Schumanngasse, 4",8010,498,16.85,8,1,9.20%,16,1
+3797,Safi Pizza & Burger,"Annenstraße, 15",8020,360,15.92,3,1,7.90%,19,1
+3799,Veggie+,"Volksgartenstraße, 24",8020,119,17.43,3,1,7.60%,331,1
+3825,Pizzeria Azzurro,"Körösistraße, 200",8010,88,20.07,1,1,12.10%,160,1
+4061,Diola by Casa Mia,"Herrgottwiesgasse, 97",8020,178,19.74,1,1,5.80%,22,1
+4131,Bellagio Uni4tel,"Elisabethstraße, 19",8010,273,22.36,1,1,5.60%,16,1
+4327,Happy Burger,"Reininghausstraße, 50",8020,330,21.46,1,1,6.50%,18,1
+4349,X-D & Wok,"Griesplatz, 36v/2",8020,66,21.53,0,1,7.10%,516,1
+4400,Big Kebap Pizza & Burger,"Kärntner Straße, 153",8053,537,17.65,3,1,5.30%,11,1
+4402,Toscana Pizza Kebap Haus,"Kärntner Straße, 416",8054,184,14.73,1,1,5.30%,20,1
+4434,Pizza Maxxx,"Andritzer Reichsstraße, 28",8045,319,21.59,3,1,8.80%,18,1
+4489,Waltendorfer Kebap Pizza,"Plüddemanngasse, 49",8010,265,16.83,2,1,5.90%,19,1
+4491,Dean & David,"Jakoministraße, 34",8010,767,26.48,1,1,7.90%,19,1
+4495,Pizzeria La Perla,"Triester Straße, 478",8055,318,18.36,0,1,8.60%,9,1
+4512,Goldener Apfel,"Brockmanngasse, 87",8010,6,14.05,0,1,7.90%,407,1
+4573,Ristorante Due Amici,"Kernstockgasse, 17",8020,114,20.5,2,1,9.80%,333,1
+4621,Pizza Presto - Originale Holzofenpizza,"Peter-Rosegger-Straße, 44",8053,160,23.42,2,1,10.90%,21,1
+4641,Pizzeria Ristorante Da Vinci,"Fröhlichgasse, 73",8010,"1,933",20.42,7,1,5.10%,16,1
+4651,Pizzeria Volta,"Mandellstraße, 27",8010,624,21.1,0,1,8.40%,10,1
+4656,Pizzeria Roma,"Elisabethstraße, 32",8010,827,17.19,6,1,7.90%,16,1
+4694,Die grüne Karotte - Vegan & Vegetarisch,"Heinrichstraße, 8",8010,12,23.43,0,1,8.30%,640,1
+4760,Me Gusta,"St.-Peter-Hauptstraße, 10",8042,387,21.52,0,1,7.10%,18,1
+4770,Euro Pizza Burger & Kebap,"Theodor-Körner-Straße, 40",8010,320,17.75,1,1,5.90%,9,1
+4899,Pizza Profi,"Wiener Straße, 212a",8051,336,18.24,1,1,9.30%,14,1
+5172,Gössendorfer Haus Pizza Kebap,"Bundesstraße, 274",8041,41,21.71,1,1,9.40%,15,1
+5199,Mistyria,"Conrad-von-Hötzendorf-Straße, 115",8010,38,15.72,2,1,8.90%,17,1
+5260,Felice,"St.-Peter-Hauptstraße, 119a",8042,0,,0,0,,,1
+5270,Pizzeria Alforno,"Steinbergstraße, 14",8052,319,19.6,1,1,4.40%,17,1
+5271,Elit Restaurant,"Rösselmühlgasse, 6b",8020,139,14.73,2,1,5.90%,310,1
+5292,Transilvania,"Südtiroler Platz, 9",8020,0,,0,0,,,1
+5334,Yong Ramen,"Leonhardstraße, 31",8010,11,13.11,0,0,8.60%,443,1
+5335,Zu den 3 goldenen Kugeln,"Lazarettgürtel, 55",8020,10,29.43,0,0,3.00%,156,1
+5342,Kolbe - Persisches Grillhaus,"Keplerstraße, 102",8020,47,26.25,0,1,14.70%,23,1
+5379,Burger King,"Jakominiplatz, 16",8010,212,23.35,3,1,3.90%,10,1
+5388,LIU - authentisch asiatische Küche,"Sporgasse, 11",8010,436,26.53,3,1,8.30%,452,1
+5394,Burger King,"Puntigamer Straße, 141",8055,129,26.38,1,1,5.80%,28,1
+5400,Burger King,"Jakominiplatz, 16",8010,761,21.84,1,1,3.30%,444,1
+5406,Das Maxxx,"Andritzer Reichsstraße, 28",8045,137,25.51,1,1,10.80%,17,1
+5428,Pizzeria Santa Catharina,"Sporgasse, 32",8010,17,20.99,0,1,16.70%,569,1
+5432,My Kentt Pizzzza Kebap,"Kärntner Straße, 329",8054,172,16.18,1,1,8.90%,12,1
+5460,NORDSEE - Herrengasse,"Herrengasse, 5",8010,15,19.83,0,1,5.30%,308,1
+5475,Babe - Asian Noodle House,"Zinzendorfgasse, 18",8010,183,15.3,0,1,8.30%,477,1
+5478,Cevabdzinica Hodzic - Balkan Spezialitäten,"Georgigasse, 36",8020,9,15.19,0,0,10.00%,712,1
+5482,Cafe ABOL - äthiopische Küche ,"Schönaugasse, 16",8010,36,18.02,0,1,11.20%,337,1
+5520,Restaurant Hendl-Eck,"Grabenstraße, 12",8010,502,22.53,2,1,3.60%,332,1
+5590,Tasty Donuts,"Jakominiplatz, 16/top 5",8010,54,12.68,0,1,4.70%,530,1
+5622,Zu den 3 goldenen Kugeln,"Heinrichstraße, 18",8010,387,26.24,1,1,4.30%,478,1
+5666,"Lend Kebap, Pizza & Pasta","Lendplatz, 34",8020,261,14.63,1,1,3.20%,415,1
+5667,Peppone,"Franziskanerplatz, 11",8010,1,,0,0,19.80%,,1
+5674,Asia Today - Asien zum Anbeißen ,"Lazarettgürtel, 55",8020,34,21.52,0,1,9.90%,423,1
+5697,Swing Kitchen,"Kaiserfeldgasse, 3",8010,"1,982",23.67,0,1,6.50%,402,1
+5703,Gösser Stüberl,"Steyrergasse, 1",8010,399,25.46,1,1,5.40%,16,1
+5734,Than Thai Imbiss,"Schönaugasse, 16/1",8010,16,25.06,0,1,1.60%,331,1
+5740,Merano's Burgers & More,"Elisabethstraße, 37",8010,63,23.01,1,1,,392,1
+5741,NAM Vietnamese Street Food,"Jakominiplatz, stand 22",8010,311,22.13,2,1,5.90%,475,1
+5745,Best Food Grill 7,"Wiener Straße, 253",8051,136,22.53,0,1,5.30%,10,1
+5752,Draxler Geflügel,"Jakominiplatz, 13",8010,72,19.27,0,1,4.00%,452,1
+5759,Murphy's Sports Bar,"Beethovenstraße, 9a",8010,0,,0,0,,,1
+5798,Zu den 3 goldenen Kugeln,"Bahnhofgürtel, 89",8020,131,28.33,1,1,5.90%,488,1
+5805,Granola - the American Way of Life,"Bahnhofgürtel, 89",8020,166,29.53,0,1,9.30%,458,1
+5810,Burgerista,"Radetzkystraße, 1",8010,841,23.04,7,1,6.30%,462,1
+5819,McDonald's,"Jakominiplatz, 18",8010,"2,508",21.26,12,1,3.10%,444,1
+5820,McDonald's,"Plüddemanngasse, 62",8010,"1,044",21.76,11,1,6.10%,581,1
+5821,McDonald's,"Lauzilgasse, 31",8020,551,22.58,6,1,4.90%,627,1
+5823,McDonald's,"Europaplatz, 4",8020,"1,226",21.96,7,1,3.70%,511,1
+5875,Burger Eck,"Jakominiplatz, marktstand 12",8010,3,23.23,0,0,9.70%,359,1
+5910,OTA Restaurant,"Keesgasse, 5",8010,22,30.91,0,1,16.30%,12,1
+5921,Peri-Peri Chicken & Burger,"Körösistraße, 200",8010,260,19.42,2,1,9.00%,19,1
+5922,Meet me there - Afrikanische Spezialitäten,"Griesgasse, 50",8020,15,17.84,0,0,,372,1
+5958,Beste Freunde - Burgergrill,"Herrgottwiesgasse, 97",8020,993,19.81,11,1,10.00%,16,1
+5961,Paradiso,"Sackstraße, 13",8010,0,,0,0,,,1
+5964,Burger King,"Riesstraße, 22",8010,152,27.63,2,1,8.40%,12,1
+6011,The Italian,"Europaplatz, 12",8020,59,21.86,1,1,,381,1
+6030,Akakiko,"Sparkassenplatz, 2",8010,481,30.43,1,1,10.70%,499,1
+6034,L'Osteria,"Mehlplatz, 1",8010,"1,017",25.76,7,1,9.80%,263,1
+6037,Best Food Grill 5,"Münzgrabenstraße, 112",8010,109,23.24,1,1,3.60%,16,1
+6081,Emy's Pizza & Kebap,"Paulustorgasse, 3",8010,0,,0,0,1.60%,,1
+6094,Pizzeria Pisa,"Griesplatz, 14",8020,84,16.74,0,0,11.30%,18,1
+6100,Captains Pizzeria - Das Original,"Triester Straße, 451",8055,275,22,3,1,6.00%,15,1
+6159,Mando,"Liebenauer Hauptstraße, 20a",8041,0,,0,0,10.60%,,1
+6173,Cook Moon,"Franziskanerplatz, stand 16",8010,0,,0,0,,,1
+6412,Restaurant Liebenauer Hof,"Kasernstraße, 60",8010,0,,0,0,4.20%,,1
+6414,KFC,"Lazarettgürtel, 55",8020,"1,244",16.03,13,1,4.90%,305,1
+6418,Best Food Grill 1,"Keplerstraße, 116",8020,90,20.81,0,1,7.70%,10,1
+6433,Subway,"Europaplatz, 2-9",8020,236,17.64,0,1,1.90%,445,1
+6525,Östa Konditorei und Cafe,"Annenstraße, 64",8020,0,,0,0,,,1
+6591,Ankara Grillhaus,"Girardigasse, 12",8010,199,12.8,0,1,3.50%,441,1
+6594,Vapiano,"Sparkassenplatz, 4",8010,261,27.7,4,1,14.40%,447,1
+6597,Eiscafe Roma,"Hans-Sachs-Gasse, 6",8010,35,15.73,0,1,5.80%,575,1
+6598,Adelphia,"Sporgasse, 16",8010,78,15.18,0,1,7.00%,462,1
+6599,Moserhofstub'n,"Moserhofgasse, 1-4",8010,22,22.94,1,1,3.00%,314,1
+6646,Subway,"Jakominiplatz, 17",8010,19,18.78,0,0,4.50%,17,1
+6753,Mumbai Cuisine,"Stremayrgasse, 6",8010,16,16.94,0,1,,669,1
+6777,L'Enoteca Dei Ciclopi,"Sackstraße, 14",8010,0,,0,0,,,1
+6778,Halici - Cafe Kebaphaus,"Volksgartenstraße, 2",8020,87,9.23,0,1,1.80%,465,1
+6779,So \ So,"Heinrichstraße, 29",8010,2,11.9,0,0,8.20%,376,1
+6780,Bier Baron,"Heinrichstraße, 56",8010,72,16,0,1,7.20%,362,1
+6813,Zeppelin,"Goethestraße, 21",8010,99,16.37,2,1,6.50%,450,1
+6814,Continuum,"Sporgasse, 29",8010,56,17.8,0,1,9.30%,444,1
+6820,Isaan Thai Restaurant,"Klosterwiesgasse, 13/eg",8010,117,26.63,0,1,11.80%,424,1
+6830,Venezia Star,"Kärntner Straße, 30",8020,7,16.84,0,1,13.50%,458,1
+6841,Konoba Kroatien,"Enge Gasse, 1",8010,9,17.46,1,0,,613,1
+6946,McDonald's,"Weiberfelderweg, 2",8054,"1,010",23.97,7,1,5.50%,500,1
+6955,Confiserie Heindl,"Herrengasse, 26",8010,7,14.98,0,0,9.10%,915,1
+6958,China Restaurant Szechuan,"Payer-Weyprecht-Straße, 46",8020,39,27.24,0,1,12.50%,476,1
+6975,Zu den 3 goldenen Kugeln,"Ostbahnstraße, 3",8041,14,38.3,0,1,10.00%,"1,951",1
+6976,Zu den 3 goldenen Kugeln,"Weblinger Gürtel, 25",8055,1,,0,0,,,1
+6977,Zu den 3 goldenen Kugeln,"Shopping City Seiersberg, 1/9",8055,14,,0,0,16.30%,,1
+6978,Granola - the American Way of Life,"Weblinger Gürtel, 25",8054,0,,0,0,21.70%,,1
+6985,Granola - the American Way of Life,"Shopping City Seiersberg, 1/9",8055,1,,0,0,,,1
+6986,Neu Nagoja,"Kärntner Straße, 388",8054,0,,0,0,,,1
+6997,Rosamunde Grill,"Liebenauer Hauptstraße, 128",8041,99,20.69,0,1,9.90%,30,1
+7003,Nahed's Küche,"Griesplatz, 4",8020,5,15.64,0,1,5.00%,735,1
+7009,Chin Chin Asian Specials,"Gleisdorfer Gasse, 1",8010,853,26.06,0,1,9.30%,17,1
+7036,Brau 32,"Leonhardstraße, 32",8010,32,25.02,0,1,8.30%,316,1
+7052,YA HABIBI - marokkanische Küche,"Jakoministraße, 13a",8010,0,,0,0,,,1
+7061,Ralf's Come In,"Neuholdaugasse, 19",8010,0,,0,0,,,1
+7071,Crazy Dogs,"Shopping City Seiersberg, 9",8055,0,,0,0,7.60%,,1
+7096,Cooking Wu,"Straßganger Straße, 207",8052,5,17.72,0,0,9.10%,"1,333",1
+7117,Dionysos,"Prokopigasse, 1",8010,0,,0,0,5.60%,,1
+7118,Das O,"Neue Stiftingtalstraße, 2",8010,0,,0,0,,,1
+7151,Area 5,"Jakominiplatz, 12",8010,0,,0,0,4.80%,,1
+7187,Subway,"Kärntner Straße, 30",8020,24,14.77,0,1,5.30%,16,1
+7200,Subway,"Triester Straße, 360",8055,5,14.38,0,0,7.60%,16,1
+7204,EYE Aseda Ghana & Asia Kitchen ,"Griesgasse, 50",8020,2,31.5,0,0,,36,1
+7211,Ugarit,"Annenstraße, 16",8020,0,,0,0,,,1
+7264,Tasty Donuts,"Shopping City Seiersberg, 1-9",8055,0,,0,0,,,1
+7297,Mr. Falafel ,"Heinrichstraße, 21",8010,48,13.53,0,1,13.80%,246,1
+7305,Campusbeißl,"Leechgasse, 29",8010,24,15.38,0,0,6.90%,274,1
+7357,Ferdls Restaurant,"Erzherzog Johann-Straße, 84",8054,17,24.36,0,1,7.70%,486,1
+7358,Best Food Grill 4,"Annenstraße, 16",8020,9,21.92,0,1,4.40%,515,1
+7359,Pho You,"Münzgrabenstraße, 36/4",8010,5,,0,0,22.70%,,1
+7380,Pizza Galerie,"Kasernstraße, 1",8010,355,19.63,2,1,8.90%,16,1
+7384,Pyramidana,"Alleegasse, 16",8054,55,19.46,1,0,15.80%,34,1
+7409,Torino Burger Pizza Kebap,"Steyrergasse, 37",8010,66,10.82,0,0,6.00%,484,1
+7462,Don Camillo Murpark,"Ostbahnstraße, 3",8041,51,24.56,1,1,14.80%,885,1
+7469,Mur Kebap & Pizzeria,"Leonhardstraße, 93",8010,75,11.43,0,1,4.20%,426,1
+7510,Uhrturmbäckerei,"Herrengasse, 23",8010,0,,0,0,,,1
+7518,Geidorfstand'l,"Geidorfplatz, 5",8010,13,13.42,0,1,2.90%,492,1
+7524,Best Food Grill 6,"Tummelplatz, 3",8010,5,12.9,0,0,2.50%,509,1
+7535,Himalaya Masala,"Grazbachgasse, 35",8010,192,31.83,0,1,9.30%,201,1
+7537,Humuhumu Poke Bar,"Enge Gasse, 4",8010,160,23.22,1,1,10.30%,562,1
+7538,Zushi Market,"Shopping City Seiersberg, 3, top 1/1/6b + 6c",8055,0,,0,0,,,1
+7542,Chin Chin Asian Special,"Puchstraße, 47",8020,720,26.84,1,1,10.20%,16,1
+7545,Mamacita - California Burritos,"Kasernstraße, 1",8010,"1,010",21.69,10,1,11.00%,17,1
+7547,Captain's Riff,"Münzgrabenstraße, 129a",8010,50,15.8,0,1,5.60%,297,1
+7549,Gaisberg Stubn,"Gaisbergweg, 7",8020,98,24.21,0,1,10.80%,427,1
+7561,Horosh,"Plüddemanngasse, 15",8010,13,12.35,0,1,9.80%,452,1
+7576,Pizzeria Nero & Kebap,"Algersdorfer Straße, 46",8020,38,11.98,1,0,4.80%,325,1
+7645,BraSilva Brasilianisches Restaurant,"Kalvariengürtel, 45",8020,2,,0,0,11.50%,,1
+7646,Pizzeria Don Daniele,"Puchstraße, 21",8020,210,21.14,0,1,8.30%,13,1
+7670,Sultan Pizza Kebap,"Eggenberger Gürtel, 20",8020,85,14.85,1,1,7.60%,27,1
+7694,MC Döner,"Eggenberger Straße, 46",8020,106,11.75,0,1,3.20%,299,1
+7702,Pierogi,"Neutorgasse, 28",8010,14,20.61,0,1,13.60%,491,1
+7703,Indisches Restaurant Ganesha,"Pestalozzistraße, 6",8010,37,28.08,0,0,11.40%,327,1
+7720,Café-Bar Tick-Tack,"Maygasse, 12",8010,194,18.29,1,1,1.90%,372,1
+7725,Babo Chicken,"Sparkassenplatz, 2",8010,181,23.99,4,1,5.90%,472,1
+7780,Propeller,"Zinzendorfgasse, 17",8010,128,18.32,0,1,3.90%,375,1
+7781,Restaurant Brandhof,"Gleisdorfer Gasse, 10",8010,10,22.15,0,1,,533,1
+7810,Santa Lucia,"Stockergasse, 10",8020,0,,0,0,9.40%,,1
+7812,Zu den 3 goldenen Kugeln,"Riesplatz, 1",8010,0,,0,0,,,1
+7953,Die goldene Banane,"Brockmanngasse, 89",8010,0,,0,0,10.80%,,1
+7963,Sägewerk Klassik,"Schlögelgasse, 1",8010,120,14.05,1,1,6.80%,438,1
+7977,Café Erde,"Andreas-Hofer-Platz, 3",8010,240,18.57,0,1,4.90%,360,1
+7983,Akdag Döner Kebap,"Keplerstraße, 32",8020,144,10.06,1,1,3.30%,465,1
+7989,Rosamunde Grill,"Heinrichstraße, 17",8010,72,15.26,0,1,5.20%,196,1
+7990,Burgerland,"Conrad-von-Hötzendorf-Straße, 42",8010,324,21.75,1,1,7.70%,18,1
+7992,Rosamunde Grill,"Leonhardstraße, 42",8010,230,16.79,1,1,8.90%,33,1
+7998,LIKE PIZZA KEBAP BURGER,"Rudersdorfer Straße, 65a",8055,43,16.7,0,0,4.80%,18,1
+8030,Ali mit Alles,"Heinrichstraße, 29",8010,285,11.38,0,1,5.10%,382,1
+8032,Arena Grill & Fast Food,"Griesplatz, 28",8020,82,14.66,0,1,4.60%,412,1
+8035,Nangfha Cafe Thai Style,"Conrad-von-Hötzendorf-Straße, 20",8010,28,19.72,2,0,8.30%,387,1
+8036,Zur Steirerstub'n,"Lendplatz, 8",8020,43,24.95,0,1,11.80%,283,1
+8037,Heinz,"Liebenauer Hauptstraße, 2-6",8041,104,27.72,0,1,9.70%,334,1
+8060,Wilding - Fett Essen,"Dietrichsteinplatz, 1",8010,489,17.03,0,1,3.30%,451,1
+8085,Kostes,"Stiftingtalstraße, 3-7",8010,35,24.39,0,1,12.90%,670,1
+8096,Cofeba,"Goethestraße, 42",8010,0,,0,0,,,1
+8099,Gösser Bräu,"Neutorgasse, 48",8010,10,26.42,0,0,4.10%,322,1
+8104,Al Pomodoro,"Heinrichstraße, 45",8010,55,21.15,0,1,13.50%,249,1
+8105,Jodl - Süßigkeiten & Getränke,"Hauptplatz, stand 1",8010,12,16.37,0,0,0.00%,634,1
+8109,Sägewerk Sport,"Hüttenbrennergasse, 31",8010,80,17.55,0,0,6.40%,365,1
+8110,Posaune,"Zinzendorfgasse, 34",8010,0,,0,0,12.50%,,1
+8175,WILDING IM HOF - FETT ESSEN,"Elisabethstraße, 30",8010,345,17.68,0,1,4.90%,421,1
+8176,Casa Costiera - Cucina di mare & Pizzeria,"Schmiedgasse, 36",8010,111,23.07,0,1,10.60%,464,1
+8262,Restaurant Demiri,"Lendplatz, 4",8020,46,14.9,0,1,5.80%,479,1
+8285,Restaurant La Done,"Puchstraße, 47",8020,122,23.18,1,1,,21,1
+8370,Parks Art,"Griesgasse, 7",8020,39,19.13,0,1,3.20%,611,1
+8373,Esserei - Pasteria,"Lagergasse, 351",8055,0,,0,0,,,1
+8374,Parks,"Zinzendorfgasse, 4",8010,108,17.31,1,1,2.30%,470,1
+8386,Pi Pa Po,"Brauquartier, 7 - 9",8055,70,23.59,0,1,16.60%,569,1
+8387,Onkel Donald Döner und Pizza,"Alte Poststraße, 148",8020,53,18.38,0,1,9.40%,16,1
+8407,Bar28,"Gartengasse, 28",8010,82,18.92,1,1,11.30%,505,1
+8414,China Restaurant - Spezielle Gerichte,"Shopping City Seiersberg, 5/2/2/24",8055,24,18.91,0,0,10.60%,790,1
+8437,The Churchill Bar,"Heinrichstraße, 21",8010,0,,0,0,,,1
+8438,Der Eissalon,"Straßganger Straße, 205",8052,1,,0,0,12.30%,,1
+8441,PRIK THAI,"Steyrergasse, 46",8010,70,28.08,0,1,12.00%,463,1
+8445,Streets,"Waagner-Biro-Straße, 109",8020,0,,0,0,,,1
+8487,Food Choice,"Münzgrabenstraße, 36",8010,2,12.9,0,1,0.00%,542,1
+8488,Panda Asia,"Reitschulgasse, 8",8010,80,29.17,1,1,13.80%,483,1
+8502,Römerstube,"Liebenauer Hauptstraße, 103",8041,0,,0,0,9.10%,,1
+8579,OMV - VIVA Shop,"Seebachergasse, 8",8010,67,17.21,1,1,7.50%,422,1
+8639,Sushi & Co.,"Moserhofgasse, 46",8010,150,26.84,1,1,11.10%,381,1
+8649,MoMo's Ristorante,"Wiener Straße, 182",8051,328,18.84,2,1,13.30%,15,1
+8650,Osaka,"Volksgartenstraße, 5",8020,94,28.41,1,1,9.80%,399,1
+8659,OMV - VIVA Shop,"Straßganger Straße, 436",8054,19,24.22,0,1,,280,1
+8677,Tonkin,"Hilmteichstraße, 1",8010,30,36.1,0,1,,533,1
+8678,Barabar - Bar & Restaurant,"Ziehrerstraße, 68",8041,0,,0,0,8.10%,,1
+8681,Gasthaus zum weißen Kreuz,"Heinrichstraße, 67",8010,24,23.53,0,1,9.30%,696,1
+8778,Ritterwirt,"Schönaugasse, 11",8010,36,21.42,0,1,3.80%,449,1
+8795,Koshari Time,"Schönaugasse, 3",8010,94,14.18,0,1,13.70%,486,1
+8796,Reselstube,"Hans-Resel-Gasse, 11",8020,0,,0,0,0.00%,,1
+8797,La Pizza ,"Koschatgasse, 35",8020,18,16.74,0,0,14.50%,477,1
+8798,Europa Pizza Kebap ,"Annenstraße, 68",8020,43,10.36,1,1,11.30%,449,1
+8800,Arena Grill & Fast Food ,"Kasernstraße, 99",8041,8,20.25,0,0,13.20%,457,1
+8845,Pizzeria Bulut,"Brunnenfeldstraße, 1",8055,69,18.18,0,1,11.80%,12,1
+8846,Come a Casa,"Kärntner Straße, 501",8054,41,18.73,0,1,13.20%,23,1
+8857,Gasthof s'Reindl,"Markusgasse, 3",8055,17,32.03,0,1,10.50%,832,1
+8871,Momiji,"Elisabethstraße, 17",8010,80,27.36,0,1,16.10%,564,1
+8917,Loana Cakeaway,"Sporgasse, 26",8010,4,27.28,0,1,,232,1
+8957,Ossi´s Pizza & Burger,"Weinzöttlstraße, 3b",8045,3,,0,0,,,1
+8986,Asia Restaurant,"Alte Poststraße, 470",8055,82,22.39,0,1,,334,1
+8988,Omoka ,"Keplerstraße, 12",8020,97,17.87,3,1,,320,1
+9009,DIE 3 F Sweet Point,"Südtiroler Platz, 9 tür 66",8020,33,12.69,0,1,,500,1
+9013,Comida,"Alte Poststraße, 470",8055,0,,0,0,,,1
+9055,Gebraten & Gebacken,"Bahnhofstraße, 2",8054,3,12.43,0,0,,425,1
+9057,Molly Malone ,"Färbergasse, 15",8010,39,12.7,0,1,,16,1
+9087,Burgerista,"Shopping City Seiersberg, 9/6/1/18",8055,111,26.59,2,1,,577,1
+9106,Aegaeis,"Lagergasse, 126",8020,25,15.49,1,1,,305,1
+9184,Café Pizzeria Rimini,"Peter-Tunner-Gasse, 45",8020,54,11.58,0,1,,472,1
+9210,PEP Deli vom Land,"Alte Poststraße, 152",8020,17,17.14,0,1,,482,1
+9228,bp - MERKUR inside,"Münzgrabenstraße, 121",8010,86,21.34,0,1,,485,1
+9320,Falafel Joe ,"Färbergasse, 2",8010,0,,0,0,,,1
+9343,Bellys 2,"Dreihackengasse, 42",8020,0,,0,0,,,1
+9344,Cheesus Burger,"St.-Peter-Hauptstraße, 119a",8042,157,22.13,2,1,,25,1
+9387,Landhaus Ruckerlberg,"Rudolfstraße, 59",8010,2,17.2,0,0,,33,1
+9432,Jackson's Fried Chicken - Gries,"Herrgottwiesgasse, 97",8020,0,,0,0,,,1
+9455,Café Mitte,"Freiheitsplatz, 2",8010,0,,0,0,,,1
+9487,Stella Pizzeria & Kebap House,"Schererstraße, 5",8052,7,16.54,0,1,,20,1
+9492,Café Phönix,"Münzgrabenstraße, 103",8010,0,,0,0,,,1
+9515,Kabashi's,"Alte Maut-Gasse, 10",8054,0,,0,0,,,1
+9518,Wing it! - Innere Stadt,"Schönaugasse, 11",8010,0,,0,0,,,1
+9548,taste&soul powered by eatclever Graz,"Schumanngasse, 4",8010,0,,0,0,,,1
+9554,Mi Casa,"Mariahilfer Straße, 24",8020,0,,0,0,,,1
+9560,Unicafe Graz,"Heinrichstraße, 36",8010,0,,0,0,,,1
+9561,Shell - Shop und Bistro,"Reininghausstraße, 63",8020,0,,0,0,,,1
+9610,NORDSEE - SC Seiersberg,"Shopping City Seiersberg, 3 top 1/1/1",8055,0,,0,0,,,1
+9633,Zimt - Persisches Restaurant,"Jakoministraße, 19",8010,0,,0,0,,,1
+9644,Pastaria,"Zinzendorfgasse, 32",8010,0,,0,0,,,1
+9671,Noodle King,"Triester Straße, 367-371",8055,0,,0,0,,,1
+9703,Trattoria Sole,"Petersgasse, 116",8010,0,,0,0,,,1
+9716,Empanada Story,"Mariahilferstraße, 24",8020,0,,0,0,,,1
+9801,Jackson's Fried Chicken - Geidorf,"Zinzendorfgasse, 18",8010,0,,0,0,,,1
+9804,Wing it! - Lend,"Wiener Straße, 182",8051,0,,0,0,,,1
+9813,Holy Chicken- Heavenly Fried Chicken,"Andritzer Reichsstraße, 28",8045,0,,0,0,,,1
+9817,Gangnam Kitchen - Korean Fried Chicken,"Zinzendorfgasse, 10",8010,0,,0,0,,,1
+9858,Yasna Panda Box,"Grottenhofstraße, 90",8053,0,,0,0,,,1
+9875,Taj Mahal - Indisches Restarant,"Kaiser-Franz-Josef-Kai, 58",8010,0,,0,0,,,1
+9897, Pizzeria Verona,"Grabenstraße, 60",8010,0,,0,0,,,1
+9924,Cohibar,"Leonhardstraße, 3",8010,0,,0,0,,,1
+9935,Die Eisperle,"Kaiserfeldgasse, 22",8010,0,,0,0,,,1
+9936,Die Eisperle,"Herrgottwiesgasse, 149",8055,0,,0,0,,,1
+9960,Score Eggenberg,"Schloßstraße, 20",8020,0,,0,0,,,1
+9981,Restaurant Fino,"Rinneggerstraße, 28",8045,0,,0,0,,,1
+9982,Knödel Butler,"Feuerbachgasse, 9, top 1",8020,0,,0,0,,,1
+9988,Sphinx Cafe & Restaurant,"Griesplatz, 24",8020,0,,0,0,,,1
+9997,Best Food Grill 8,"Andritzer Reichsstraße, 35a",8045,0,,0,0,,,1
+10016,Bowl,"Hauptplatz, stand 8",8010,0,,0,0,,,1
+10025,Aria Persisches Restaurant,"Schönaugasse, 3",8010,0,,0,0,,,1
+10050,Meet ,"Liebenauer Hauptstraße, 119",8041,0,,0,0,,,1
+10098,Nostalgie Stüberl,"Grabenstraße, 32",8010,0,,0,0,,,1
+10107,Gasthaus Hofstätter,"Kalvarienbergstraße, 59",8020,0,,0,0,,,1
+10109,Trattoria Veneziana,"Kadettengasse, 25",8041,0,,0,0,,,1
+10113,Yamamoto,"Schmiedgasse, 22",8010,0,,0,0,,,1
+10136, Safran Restaurant Cafe,"Sackstraße, 27",8010,0,,0,0,,,1
+10192,Restaurant Castello,"Feldkirchner Straße, 11-15",8054,0,,0,0,,,1
+10208,Peppino im Hofkeller,"Hofgasse, 8",8010,0,,0,0,,,1
+10209,Tutto Bene,"Grüne Gasse, 62",8020,0,,0,0,,,1
+10223,Cheesus Burger,"Mariahilferstraße, 24",8020,0,,0,0,,,1
+10234,Unterm Goldenen Dachl,"Schießstattgasse, 4",8010,0,,0,0,,,1
+10235,Hendlkönig Imbisskiosk Seiersberg,"Werschweg, 1",8054,0,,0,0,,,1
+10304,bp - MERKUR inside,"Puntigamer Straße, 130",8055,0,,0,0,,,1
+10318,Baba Noni - Modern Oriental Kitchen,"Lagergasse, 126",8020,0,,0,0,,,1
+10336,Afghan Restaurant,"Schönaugasse, 12",8010,0,,0,0,,,1
+10352,Yamauchi,"Puchstraße, 4",8020,0,,0,0,,,1
+10353,Mr. Falafel,"Riesstraße, 16",8010,0,,0,0,,,1
+10358,Royal Kebap,"Annenstraße, 9",8020,0,,0,0,,,1
+10382,Limes,"Grazbachgasse, 47",8010,0,,0,0,,,1
+10383,Pizzeria Pirates,"Triester Straße, 413",8055,0,,0,0,,,1
+10384,Gasthaus zur Sonne,"Schloßplatz, 1",8051,0,,0,0,,,1
+10405,Confiserie Eckhard's,"Sporgasse, 1",8010,0,,0,0,,,1
+10414,SPAR express,"Conrad-von-Hötzendorf-Straße, 135",8010,0,,0,0,,,1
+10451,Grillmeister,"Liebenauer Hauptstraße, 320",8041,0,,0,0,,,1
+10460,Apex Pizza Burger Kebab,"Zinzendorfgasse, 14",8010,0,,0,0,,,1
+10483,Eloïse Drinks,"Pulvermühlweg, 3",8055,0,,0,0,,,1
+10548,Burger Boutique Graz,"St.-Peter-Gürtel, 12",8042,0,,0,0,,,1
+10550,Boba Tea & Juice,"Ostbahnstraße, 3",8041,0,,0,0,,,1
+10554,Gasthof zum Bayernbrunnen,"Baiernstraße, 102",8020,0,,0,0,,,1
+10574,Ucco's,"Pestalozzistraße, 26",8010,0,,0,0,,,1
+10634,Wir:zhaus,"Elisabethinergasse, 28",8020,0,,0,0,,,1
+10663,Namaste Nepal Restaurant,"Gartengasse, 1",8010,0,,0,0,,,1
+10704,Easy Asia,"Albert-Schweitzer-Gasse, 49",8020,0,,0,0,,,1
