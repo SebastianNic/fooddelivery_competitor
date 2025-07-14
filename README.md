@@ -63,8 +63,8 @@ Built using Tableau, the dashboard includes the following elements:
 │   │   ├── Comp_data.xlsx - Month 1.csv
 │   │   └── Comp_data.xlsx - Month 2.csv
 │   ├── preprocessed/
-│   │   ├── us_formatted_month_1.csv
-│   │   ├── us_formatted_month_2.csv
+│   │   ├── us_formatted_month_1 (1).csv
+│   │   ├── us_formatted_month_2 (1).csv
 │   │   ├── comp_formatted_month_1.csv
 │   │   └── comp_formatted_month_2.csv
 ├── pictures/
